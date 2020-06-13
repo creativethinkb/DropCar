@@ -8,3 +8,5 @@
  -> 파이카메라 장착, Wi-Pi설정, App 
 
 <img src="https://user-images.githubusercontent.com/65689549/82535523-ed260600-9b81-11ea-9b54-73f09ee53ba3.png" width="150px" height="100px" title="px(픽셀) 크기 설정" alt="RubberDuck"></img><br/>
+
+![RCCar](https://user-images.githubusercontent.com/65689549/84568600-7b755c80-adbb-11ea-8893-7849989ea44c.png)
