@@ -9,3 +9,6 @@
 
 <img src="https://user-images.githubusercontent.com/65689549/84568600-7b755c80-adbb-11ea-8893-7849989ea44c.png" width="500px" height="300px" title="px(픽셀) 크기 설정" alt="RubberDuck"></img><br/>
 
+![20200613154507-16553bff09 gif-2-mp4 com](https://user-images.githubusercontent.com/65689549/84569176-72868a00-adbf-11ea-885a-a70421676a72.gif)
+
+
