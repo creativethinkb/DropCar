@@ -3,18 +3,18 @@
 
 사용 재료 : Raspberry 2 B+, Servo Motor, 장난감 자동차 바퀴, 스마트 폰 등
 
-[RC Car]
-OS : Raspbian Jessi,
-Language : C 
-Library : BCM2835 for PWM, wiringPi for control GPIO, GStreamer for video stream
+[RC Car]</br>
+OS : Raspbian Jessi</br>
+Language : C</br>
+Library : BCM2835 for PWM, wiringPi for control GPIO, GStreamer for video stream</br>
 
-[SmartPhone App]
-OS : Android
-Developer Tool : Android Studio
-Language : Java
-Library : Vitamio for viedo stream, 
+[SmartPhone App]</br>
+OS : Android</br>
+Developer Tool : Android Studio</br>
+Language : Java</br>
+Library : Vitamio for viedo stream</br> 
 
-RCCar에 무선 Wi-Fi 모듈을 사용해서 Wi-Fi로 두 장비를 연결
+RCCar에 무선 Wi-Fi 모듈을 사용해서 Wi-Fi로 두 장비를 연결</br>
 
 <img src="https://user-images.githubusercontent.com/65689549/84568600-7b755c80-adbb-11ea-8893-7849989ea44c.png" width="500px" height="300px" title="px(픽셀) 크기 설정" alt="RubberDuck"></img><br/>
 
