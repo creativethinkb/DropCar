@@ -1,7 +1,7 @@
 ### Smart Phone으로 영상을 보면서 제어하는 Remote Control Car(MySelf Project)
 <hr/>
 
-사용 재료 : Raspberry 2 B+, Servo Motor, 장난감 자동차 바퀴, 스마트 폰 등
+사용 재료 : Raspberry 2 B+, Servo Motor, ipTIME USB-AP(N100mini), 장난감 자동차 바퀴, 파이 카메라,  스마트 폰 등
 
 [RC Car]</br>
 OS : Raspbian Jessi</br>
@@ -14,7 +14,7 @@ Developer Tool : Android Studio</br>
 Language : Java</br>
 Library : Vitamio for viedo stream</br> 
 
-RCCar에 무선 Wi-Fi 모듈을 사용해서 Wi-Fi로 두 장비를 연결</br>
+RCCar에 무선 Wi-Fi 모듈을 사용해서 Wi-Fi로 스마트 폰에 연결</br>
 
 <img src="https://user-images.githubusercontent.com/65689549/84568600-7b755c80-adbb-11ea-8893-7849989ea44c.png" width="500px" height="300px" title="px(픽셀) 크기 설정" alt="RubberDuck"></img><br/>
 
