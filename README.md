@@ -1,9 +1,13 @@
-### Smart Phone으로 영상을 보면서 제어하는 Remote Control Car(MySelf Project)
+### Smart Phone으로 영상을 보면서 제어하는 Remote Control Car
 <hr/>
 
-사용 재료 : Raspberry 2 B+, Servo Motor, ipTIME USB-AP(N100mini), 장난감 자동차 바퀴, 파이 카메라,  스마트 폰 등
+사용 재료 : Raspberry Pi 2 B+, Servo Motor, ipTIME USB-AP(N100mini), 파이 카메라,  스마트 폰, 외장 배터리, 고장난 사촌 조카의 장난감 자동차 바퀴와 축, 빵판 등
 
-[RC Car]</br>
+[Circuit]</br>
+PWM회로 구성 for RC Car의 변속 제어
+Motor와 Raspberry Pi 전원 인가용 스위치
+
+[RC Car SW]</br>
 OS : Raspbian Jessi</br>
 Language : C</br>
 Library : BCM2835 for PWM, wiringPi for control GPIO, GStreamer for video stream</br>
