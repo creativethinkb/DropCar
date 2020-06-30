@@ -12,8 +12,8 @@
 8.빵판, 볼트, 너트, 서포터, 와이어 등
 
 [Circuit]</br>
-PWM회로 구성 for RC Car의 변속 제어
-Motor와 Raspberry Pi 전원 인가용 스위치
+PWM 회로 구성(for RC Car의 변속 제어)<br/>
+Motor와 Raspberry Pi 전원 인가용 스위치 회로 구성
 
 [RC Car SW]</br>
 OS : Raspbian Jessi</br>
