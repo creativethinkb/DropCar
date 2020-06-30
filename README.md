@@ -1,8 +1,8 @@
 ### Smart Phone으로 영상을 보면서 제어하는 Remote Control Car
 <hr/>
 
-[사용 재료]</br>
-1. Raspberry Pi 2 B+</br>
+[사용 재료]<br/>
+1.Raspberry Pi 2 B+</br>
 2.Servo Motor</br>
 3.ipTIME USB-AP(N100mini)</br>
 4.파이 카메라</br>
