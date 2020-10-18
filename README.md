@@ -24,7 +24,7 @@ Library : BCM2835 for PWM, wiringPi for control GPIO, GStreamer for video stream
 OS : Android</br>
 Developer Tool : Android Studio</br>
 Language : Java</br>
-Library : Vitamio for viedo stream</br> 
+Library : Vitamio for video stream</br> 
 
 RCCar에 무선 Wi-Fi 모듈을 사용해서 Wi-Fi로 스마트 폰에 연결</br>
 
